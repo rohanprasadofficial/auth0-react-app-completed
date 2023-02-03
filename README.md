@@ -4,6 +4,9 @@ This is the final repo for integration for Auth0 services into your React App.
 
 ### Final App for youtube video : https://youtu.be/cstYz8xqK2A 
 
+![image](https://user-images.githubusercontent.com/30728574/216604997-691cd610-fcfc-45b8-9cae-d4887e92edb1.png)
+
+
 
 In the project directory, you can run:
 
